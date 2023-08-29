@@ -1,1 +1,2 @@
 This file is a practice to test uploading to github!
+It's not that hard to be honest.
