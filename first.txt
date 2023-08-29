@@ -1,2 +1,3 @@
 Here is my text file.
+I'm putting a second line.
 Isn't it a wonderful file?
